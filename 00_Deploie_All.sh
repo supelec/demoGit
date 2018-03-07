@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# Add Git
 # Script de déploiement de Oracle sur LXD
 
 LOG_INSTALL_DIR=$(pwd)
